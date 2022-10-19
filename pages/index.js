@@ -20,7 +20,7 @@ export default function Home() {
                     </div>
                 </div>
             </div>
-            <div className="p-10">
+            <div className="">
                 <div id="inc_react_balsam_pdp"></div>
             </div>
         </div>
